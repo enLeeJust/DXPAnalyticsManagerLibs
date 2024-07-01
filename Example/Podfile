@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DXPAnalyticsManagerLibs_Tests' do
+  pod 'DXPAnalyticsManagerLibs', :path => '../'
+  
+  
+end
